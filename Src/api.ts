@@ -3,7 +3,7 @@ import * as http  from 'http';
 
 const api = express();
 
-api.use('/',(req, res, next) => {
+api.use((req, res, next) => {
 
     console.log('In the middleware!');
    
