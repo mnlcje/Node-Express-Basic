@@ -15,7 +15,7 @@
   "@types/lodash": "4.14.110",
   "ts-node": "7.0.0",
   "typescript": "2.9.2",
-  "express": "4.16.3"
+  "express": "4.19.2"
  },
  "devDependencies": {
   "nodemon": "^1.17.5"
